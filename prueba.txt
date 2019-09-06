@@ -1,2 +1,4 @@
 Hola estoy empezando a programar con git y github 
 es muy dificil pero lo estoy intentando hasta lograrlo
+
+ya entendi y encontre una pequeña secuencia para poder seguir.
