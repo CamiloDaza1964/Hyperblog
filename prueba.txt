@@ -1,4 +1,4 @@
 Hola estoy empezando a programar con git y github 
-es muy dificil pero lo estoy intentando hasta lograrlo
-
+encontre la forma de entrar al master y de iniciar la primera parte
+pero me falta mas todavia
 ya entendi y encontre una pequeña secuencia para poder seguir.
